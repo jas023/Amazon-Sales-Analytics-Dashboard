@@ -30,8 +30,6 @@ An interactive **Power BI dashboard** designed to analyze Amazon sales data and 
 
 ## 📷 Dashboard Preview
 
-![Amazon Dashboard](Screenshots/dashboard.png)
+[![Amazon Dashboard](Screenshots/dashboard.png)](https://github.com/jas023/Amazon-Sales-Analytics-Dashboard/blob/main/amazon-dashboard.png)
 
 
-
-⭐ If you find this project useful, consider starring the repository.
